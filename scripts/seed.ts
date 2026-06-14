@@ -49,3 +49,5 @@ function main(): void {
 }
 
 main();
+
+// (sync test — this comment was added in the public repo and pulled into personal)
