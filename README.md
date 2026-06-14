@@ -11,7 +11,7 @@ It runs four tracks — coding, system design, behavioral, and timed mocks — o
 The repo ships with a few **example files** so you can see the tool working before you start your own practice.
 
 ```bash
-git clone https://github.com/<your-username>/junaki.git
+git clone git@github.com:arkajyotiadhikary/junaki.git
 cd junaki
 npm install        # installs tsx + typescript only — no runtime dependencies
 npm run seed       # loads the demo data (example problem, design, story)
@@ -123,7 +123,7 @@ Junaki is built to be forked. The recommended setup keeps the public tool and yo
 1. **Fork** this repo (or create your own private copy for your real practice).
 2. **Add this repo as `upstream`** so you can pull new features:
    ```bash
-   git remote add upstream https://github.com/<this-repo>/junaki.git
+   git remote add upstream https://github.com/arkajyotiadhikary/junaki.git
    ```
 3. **Practice in your fork.** Your solutions and data files stay in your private repo.
 4. **Pull tool updates** whenever you want the latest features:
@@ -131,10 +131,8 @@ Junaki is built to be forked. The recommended setup keeps the public tool and yo
    git pull upstream main
    ```
 
-Because the public repo never tracks your live data files (it ships only the `*.example.*` versions), pulling updates won't touch your practice data. The one rule: **edit the tool in the public repo, keep your data in your private one.** That way `git pull upstream main` stays conflict-free.
-
 ---
 
 ## License
 
-[MIT](LICENSE).
+[MIT](LICENSE)
