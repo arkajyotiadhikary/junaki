@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# Auto-regenerates stats.svg before each commit and stages it.
+# Skip if generator deps not installed (e.g. fresh clone before `npm install`).
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+if [ ! -d node_modules ]; then
+  echo "[pre-commit] node_modules missing. Run 'npm install && npm run setup'. Skipping SVG regen."
+  exit 0
+fi
+
+echo "[pre-commit] Regenerating stats.svg..."
+npx tsx scripts/generate-svg.ts
+
+git add stats.svg

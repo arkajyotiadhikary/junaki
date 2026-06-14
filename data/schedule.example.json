@@ -1,0 +1,19 @@
+{
+  "schedule": {
+    "leetcode/1_two_sum.example.ts": {
+      "lastReview": "2026-01-12T09:00:00.000Z",
+      "intervalIndex": 1,
+      "due": "2026-01-19T09:00:00.000Z"
+    },
+    "systemdesign/url-shortener.example.md": {
+      "lastReview": "2026-01-08T09:00:00.000Z",
+      "intervalIndex": 0,
+      "due": "2026-01-11T09:00:00.000Z"
+    },
+    "behavioral/stories/ownership-bug.example.md": {
+      "lastReview": "2026-01-09T09:00:00.000Z",
+      "intervalIndex": 0,
+      "due": "2026-01-12T09:00:00.000Z"
+    }
+  }
+}

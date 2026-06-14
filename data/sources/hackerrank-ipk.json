@@ -1,0 +1,559 @@
+{
+  "$schema": "Extracted from suggest-problem skill. hackerrank ordered study list; consumed by the multi-platform curriculum importer.",
+  "source": "hackerrank",
+  "count": 69,
+  "items": [
+    {
+      "slug": "sock-merchant",
+      "title": "Sock Merchant",
+      "pattern": "Warm-up Challenges",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "counting-valleys",
+      "title": "Counting Valleys",
+      "pattern": "Warm-up Challenges",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "jumping-on-the-clouds",
+      "title": "Jumping on the Clouds",
+      "pattern": "Warm-up Challenges",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "repeated-string",
+      "title": "Repeated String",
+      "pattern": "Warm-up Challenges",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "arrays-left-rotation",
+      "title": "Arrays: Left Rotation",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "new-year-chaos",
+      "title": "New Year Chaos",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "2d-array-ds",
+      "title": "2D Array - DS",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "minimum-swaps-2",
+      "title": "Minimum Swaps 2",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "array-manipulation",
+      "title": "Array Manipulation",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "hash-tables-ransom-note",
+      "title": "Hash Tables: Ransom Note",
+      "pattern": "Dictionaries and Hashmaps",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "two-strings",
+      "title": "Two Strings",
+      "pattern": "Dictionaries and Hashmaps",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "sherlock-and-anagrams",
+      "title": "Sherlock and Anagrams",
+      "pattern": "Dictionaries and Hashmaps",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "count-triplets",
+      "title": "Count Triplets",
+      "pattern": "Dictionaries and Hashmaps",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "frequency-queries",
+      "title": "Frequency Queries",
+      "pattern": "Dictionaries and Hashmaps",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "sorting-bubble-sort",
+      "title": "Sorting: Bubble Sort",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "mark-and-toys",
+      "title": "Mark and Toys",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "sorting-comparator",
+      "title": "Sorting: Comparator",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "fraudulent-activity-notifications",
+      "title": "Fraudulent Activity Notifications",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "merge-sort-counting-inversions",
+      "title": "Merge Sort: Counting Inversions",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "strings-making-anagrams",
+      "title": "Strings: Making Anagrams",
+      "pattern": "String Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "alternating-characters",
+      "title": "Alternating Characters",
+      "pattern": "String Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "sherlock-and-the-valid-string",
+      "title": "Sherlock and the Valid String",
+      "pattern": "String Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "special-string-again",
+      "title": "Special String Again",
+      "pattern": "String Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "common-child",
+      "title": "Common Child",
+      "pattern": "String Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "luck-balance",
+      "title": "Luck Balance",
+      "pattern": "Greedy Algorithms",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "minimum-absolute-difference-in-an-array",
+      "title": "Minimum Absolute Difference in an Array",
+      "pattern": "Greedy Algorithms",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "greedy-florist",
+      "title": "Greedy Florist",
+      "pattern": "Greedy Algorithms",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "max-min",
+      "title": "Max Min",
+      "pattern": "Greedy Algorithms",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "reverse-shuffle-merge",
+      "title": "Reverse Shuffle Merge",
+      "pattern": "Greedy Algorithms",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "hash-tables-ice-cream-parlor",
+      "title": "Hash Tables: Ice Cream Parlor",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "swap-nodes-algo",
+      "title": "Swap Nodes [Algo]",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "pairs",
+      "title": "Pairs",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "triple-sum",
+      "title": "Triple Sum",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "minimum-time-required",
+      "title": "Minimum Time Required",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "maximum-subarray-sum",
+      "title": "Maximum Subarray Sum",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "making-candies",
+      "title": "Making Candies",
+      "pattern": "Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "max-array-sum",
+      "title": "Max Array Sum",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "candies",
+      "title": "Candies",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "abbreviation",
+      "title": "Abbreviation",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "decibinary-numbers",
+      "title": "Decibinary Numbers",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "balanced-brackets",
+      "title": "Balanced Brackets",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "queues-a-tale-of-two-stacks",
+      "title": "Queues: A Tale of Two Stacks",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "largest-rectangle",
+      "title": "Largest Rectangle",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "min-max-riddle",
+      "title": "Min Max Riddle",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "castle-on-the-grid",
+      "title": "Castle on the Grid",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "poisonous-plants",
+      "title": "Poisonous Plants",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "roads-and-libraries",
+      "title": "Roads and Libraries",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "find-the-nearest-clone",
+      "title": "Find the nearest clone",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "bfs-shortest-reach-in-a-graph",
+      "title": "BFS: Shortest Reach in a Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "dfs-connected-cell-in-a-grid",
+      "title": "DFS: Connected Cell in a Grid",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "matrix",
+      "title": "Matrix",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "tree-height-of-a-binary-tree",
+      "title": "Tree: Height of a Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "tree-huffman-decoding",
+      "title": "Tree: Huffman Decoding",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "binary-search-tree-lowest-common-ancestor",
+      "title": "Binary Search Tree: Lowest Common Ancestor",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "is-this-a-binary-search-tree",
+      "title": "Is This a Binary Search Tree?",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "balanced-forest",
+      "title": "Balanced Forest",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "insert-a-node-at-a-specific-position-in-a-linked-list",
+      "title": "Insert a node at a specific position in a linked list",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "inserting-a-node-into-a-sorted-doubly-linked-list",
+      "title": "Inserting a Node Into a Sorted Doubly Linked List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "reverse-a-doubly-linked-list",
+      "title": "Reverse a doubly linked list",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "find-merge-point-of-two-lists",
+      "title": "Find Merge Point of Two Lists",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "linked-lists-detect-a-cycle",
+      "title": "Linked Lists: Detect a Cycle",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "recursion-fibonacci-numbers",
+      "title": "Recursion: Fibonacci Numbers",
+      "pattern": "Recursion and Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "recursion-davis-staircase",
+      "title": "Recursion: Davis' Staircase",
+      "pattern": "Recursion and Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "recursion-crossword-puzzle",
+      "title": "Recursion: Crossword Puzzle",
+      "pattern": "Recursion and Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "recursive-digit-sum",
+      "title": "Recursive Digit Sum",
+      "pattern": "Recursion and Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "flipping-bits",
+      "title": "Flipping bits",
+      "pattern": "Miscellaneous",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "time-complexity-primality",
+      "title": "Time Complexity: Primality",
+      "pattern": "Miscellaneous",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "friend-circle-queries",
+      "title": "Friend Circle Queries",
+      "pattern": "Miscellaneous",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    },
+    {
+      "slug": "maximum-xor",
+      "title": "Maximum Xor",
+      "pattern": "Miscellaneous",
+      "phase": 1,
+      "kind": "problem",
+      "source": "hackerrank"
+    }
+  ]
+}

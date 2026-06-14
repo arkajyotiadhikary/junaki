@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+*.log
+
+# Obsidian vault UI state (feynman-coach notes)
+.obsidian/
+
+# Playwright MCP browser-tool artifacts (console logs, page dumps)
+.playwright-mcp/
+
+# Paid / personal study material — never commit
+data/sources/algofrog-export.json
+data/sources/algofrog-curriculum.json
+algofrog-export.json
+
+# Local editor / agent settings
+.claude/settings.local.json

@@ -1,0 +1,27 @@
+{
+  "name": "junaki",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Junaki — a self-running 6-month MAANG interview prep system (DSA, system design, behavioral, mocks) with spaced repetition and auto-generated stats SVG.",
+  "type": "module",
+  "scripts": {
+    "stats": "tsx scripts/generate-svg.ts",
+    "practice": "tsx scripts/log-practice.ts",
+    "today": "tsx scripts/today.ts",
+    "seed": "tsx scripts/seed.ts",
+    "reset": "tsx scripts/reset.ts",
+    "design": "tsx scripts/new-design.ts",
+    "story": "tsx scripts/new-story.ts",
+    "story:matrix": "tsx scripts/story-matrix.ts",
+    "mock": "tsx scripts/mock.ts",
+    "schedule:backfill": "tsx scripts/schedule.ts",
+    "extract:lists": "tsx scripts/extract-lists.ts",
+    "import:algofrog": "tsx scripts/import-algofrog.ts",
+    "test": "tsx scripts/schedule.test.ts && tsx scripts/today.test.ts && tsx scripts/mock.test.ts && tsx scripts/extract-lists.test.ts && tsx scripts/import-algofrog.test.ts && tsx scripts/assemble-curriculum.test.ts",
+    "setup": "git config core.hooksPath hooks && chmod +x hooks/pre-commit && echo 'Hooks installed.'"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}

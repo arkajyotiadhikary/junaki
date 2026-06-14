@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "file": "leetcode/1_two_sum.example.ts",
+      "date": "2026-01-05T09:00:00.000Z",
+      "notes": "first solve — one-pass hash map, store complement -> index"
+    },
+    {
+      "file": "leetcode/1_two_sum.example.ts",
+      "date": "2026-01-12T09:00:00.000Z",
+      "notes": "review — recalled the one-pass trick cleanly"
+    },
+    {
+      "file": "systemdesign/url-shortener.example.md",
+      "date": "2026-01-08T09:00:00.000Z",
+      "notes": "blank-page design — base62 ids, cache the hot links"
+    },
+    {
+      "file": "behavioral/stories/ownership-bug.example.md",
+      "date": "2026-01-09T09:00:00.000Z",
+      "notes": "drilled STAR out loud once"
+    }
+  ]
+}

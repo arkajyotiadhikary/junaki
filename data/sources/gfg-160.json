@@ -1,0 +1,1287 @@
+{
+  "$schema": "Extracted from suggest-problem skill. geeksforgeeks ordered study list; consumed by the multi-platform curriculum importer.",
+  "source": "geeksforgeeks",
+  "count": 160,
+  "items": [
+    {
+      "slug": "second-largest-element-in-an-array",
+      "title": "Second Largest Element in an Array",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "move-all-zeroes-to-end",
+      "title": "Move All Zeroes to End",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "reverse-an-array",
+      "title": "Reverse an Array",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "rotate-array",
+      "title": "Rotate Array",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "next-permutation",
+      "title": "Next Permutation",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "majority-element-ii",
+      "title": "Majority Element II",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "stock-buy-and-sell-multiple-transaction-allowed",
+      "title": "Stock Buy and Sell – Multiple Transaction Allowed",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "stock-buy-and-sell-max-one-transaction-allowed",
+      "title": "Stock Buy and Sell – Max One Transaction Allowed",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "minimize-the-heights-ii",
+      "title": "Minimize the Heights II",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "kadanes-algorithm",
+      "title": "Kadane's Algorithm",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "maximum-product-subarray",
+      "title": "Maximum Product Subarray",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "max-circular-subarray-sum",
+      "title": "Max Circular Subarray Sum",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "smallest-positive-missing-number",
+      "title": "Smallest Positive Missing Number",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "implement-atoi",
+      "title": "Implement Atoi",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "add-binary-strings",
+      "title": "Add Binary Strings",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "anagram",
+      "title": "Anagram",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "non-repeating-character",
+      "title": "Non Repeating Character",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "search-pattern-kmp-algorithm",
+      "title": "Search Pattern (KMP Algorithm)",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "min-chars-to-add-for-palindrome",
+      "title": "Min Chars to Add for Palindrome",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "strings-rotations-of-each-other",
+      "title": "Strings Rotations of Each Other",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "sort-0s-1s-and-2s",
+      "title": "Sort 0s, 1s and 2s",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "find-hindex",
+      "title": "Find H-Index",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-inversions",
+      "title": "Count Inversions",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "overlapping-intervals",
+      "title": "Overlapping Intervals",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "insert-interval",
+      "title": "Insert Interval",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "nonoverlapping-intervals",
+      "title": "Non-overlapping Intervals",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "merge-without-extra-space",
+      "title": "Merge Without Extra Space",
+      "pattern": "Sorting",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "number-of-occurrence",
+      "title": "Number of Occurrence",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "sorted-and-rotated-minimum",
+      "title": "Sorted and Rotated Minimum",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "search-in-rotated-sorted-array",
+      "title": "Search in Rotated Sorted Array",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "peak-element",
+      "title": "Peak Element",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "kth-element-of-two-arrays",
+      "title": "Kth Element of Two Arrays",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "aggressive-cows",
+      "title": "Aggressive Cows",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "allocate-minimum-pages",
+      "title": "Allocate Minimum Pages",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "kth-missing-positive-number",
+      "title": "Kth Missing Positive Number",
+      "pattern": "Searching",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "spirally-traversing-a-matrix",
+      "title": "Spirally Traversing a Matrix",
+      "pattern": "Matrix",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "rotate-by-90-degree",
+      "title": "Rotate by 90 Degree",
+      "pattern": "Matrix",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "search-in-a-rowcolumn-sorted-matrix",
+      "title": "Search in a Row-Column Sorted Matrix",
+      "pattern": "Matrix",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "search-in-a-rowwise-sorted-matrix",
+      "title": "Search in a Row-wise Sorted Matrix",
+      "pattern": "Matrix",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "search-in-a-sorted-matrix",
+      "title": "Search in a Sorted Matrix",
+      "pattern": "Matrix",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "set-matrix-zeroes",
+      "title": "Set Matrix Zeroes",
+      "pattern": "Matrix",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "two-sum-pair-with-given-sum",
+      "title": "Two Sum — Pair with Given Sum",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-pairs-with-given-sum",
+      "title": "Count Pairs with Given Sum",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "find-all-triplets-with-zero-sum",
+      "title": "Find All Triplets with Zero Sum",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "intersection-of-two-arrays-with-duplicate-elements",
+      "title": "Intersection of Two Arrays with Duplicate Elements",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "union-of-two-arrays-with-duplicate-elements",
+      "title": "Union of Two Arrays with Duplicate Elements",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-consecutive-subsequence",
+      "title": "Longest Consecutive Subsequence",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "print-anagrams-together",
+      "title": "Print Anagrams Together",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "subarrays-with-sum-k",
+      "title": "Subarrays with Sum K",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-subarrays-with-given-xor",
+      "title": "Count Subarrays with Given XOR",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-the-number-of-possible-triangles",
+      "title": "Count the number of possible triangles",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "title": "Count Pairs whose sum is less than target",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "sum-pair-closest-to-target",
+      "title": "Sum Pair closest to target",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "pair-with-given-sum-in-sorted-array",
+      "title": "Pair with given sum in sorted array",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-all-triplets-with-given-sum-in-sorted-array",
+      "title": "Count all triplets with given sum in sorted array",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "indexes-of-subarray-sum",
+      "title": "Indexes of Subarray Sum",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-distinct-elements-in-every-window",
+      "title": "Count distinct elements in every window",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-substring-with-distinct-characters",
+      "title": "Longest substring with distinct characters",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "trapping-rain-water",
+      "title": "Trapping Rain Water",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "container-with-most-water",
+      "title": "Container With Most Water",
+      "pattern": "Two Pointer Technique",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "equilibrium-point",
+      "title": "Equilibrium Point",
+      "pattern": "Prefix Sum",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-subarray-with-sum-k",
+      "title": "Longest Subarray with Sum K",
+      "pattern": "Prefix Sum",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "largest-subarray-of-0s-and-1s",
+      "title": "Largest Subarray of 0s and 1s",
+      "pattern": "Prefix Sum",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "product-array-puzzle",
+      "title": "Product Array Puzzle",
+      "pattern": "Prefix Sum",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "reverse-a-linked-list",
+      "title": "Reverse a Linked List",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "rotate-a-linked-list",
+      "title": "Rotate a Linked List",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "merge-two-sorted-linked-lists",
+      "title": "Merge Two Sorted Linked Lists",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "reverse-a-linked-list-in-groups-of-given-size",
+      "title": "Reverse a Linked List in Groups of Given Size",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "add-number-linked-lists",
+      "title": "Add Number Linked Lists",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "clone-list-with-next-and-random-pointer",
+      "title": "Clone List with Next and Random Pointer",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "detect-loop-in-linked-list",
+      "title": "Detect Loop in Linked List",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "find-the-first-node-of-loop-in-linked-list",
+      "title": "Find the First Node of Loop in Linked List",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "remove-loop-in-linked-list",
+      "title": "Remove Loop in Linked List",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "lru-cache",
+      "title": "LRU Cache",
+      "pattern": "Linked List",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "permutations-of-a-string",
+      "title": "Permutations of a String",
+      "pattern": "Recursion & Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "implement-pow",
+      "title": "Implement Pow",
+      "pattern": "Recursion & Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "nqueen-problem",
+      "title": "N-Queen Problem",
+      "pattern": "Recursion & Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "solve-the-sudoku",
+      "title": "Solve the Sudoku",
+      "pattern": "Recursion & Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "word-search",
+      "title": "Word Search",
+      "pattern": "Recursion & Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "level-order-traversal",
+      "title": "Level Order Traversal",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "height-of-binary-tree",
+      "title": "Height of Binary Tree",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "diameter-of-a-binary-tree",
+      "title": "Diameter of a Binary Tree",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "mirror-tree",
+      "title": "Mirror Tree",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "construct-binary-tree-from-parent-array",
+      "title": "Construct Binary Tree from Parent Array",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "tree-traversal",
+      "title": "Tree Traversal",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "boundary-traversal-of-binary-tree",
+      "title": "Boundary Traversal of Binary Tree",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "maximum-path-sum-from-any-node",
+      "title": "Maximum Path Sum from Any Node",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "k-sum-paths",
+      "title": "K Sum Paths",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "check-for-bst",
+      "title": "Check for BST",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "kth-smallest-in-bst",
+      "title": "Kth Smallest in BST",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "pair-sum-in-bst",
+      "title": "Pair Sum in BST",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "fix-two-nodes-of-a-bst",
+      "title": "Fix Two Nodes of a BST",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "lowest-common-ancestor-in-a-bst",
+      "title": "Lowest Common Ancestor in a BST",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "construct-tree-from-inorder-and-preorder",
+      "title": "Construct Tree from Inorder and Preorder",
+      "pattern": "Tree",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "k-largest-elements",
+      "title": "K Largest Elements",
+      "pattern": "Heap",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "merge-k-sorted-arrays",
+      "title": "Merge K Sorted Arrays",
+      "pattern": "Heap",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "k-closest-points-to-origin",
+      "title": "K Closest Points to Origin",
+      "pattern": "Heap",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "find-median-in-a-stream",
+      "title": "Find Median in a Stream",
+      "pattern": "Heap",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "next-greater-element",
+      "title": "Next Greater Element",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "next-greater-element-in-circular-array",
+      "title": "Next Greater Element in Circular Array",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "stock-span-problem",
+      "title": "Stock Span Problem",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "histogram-maximum-rectangular-area",
+      "title": "Histogram Maximum Rectangular Area",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "maximum-of-minimum-for-every-window-size",
+      "title": "Maximum of Minimum for Every Window Size",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "the-celebrity-problem",
+      "title": "The Celebrity Problem",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "evaluation-of-postfix-expression",
+      "title": "Evaluation of Postfix Expression",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-valid-parentheses",
+      "title": "Longest Valid Parentheses",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "implement-two-stacks-in-an-array",
+      "title": "Implement Two Stacks in an Array",
+      "pattern": "Stack",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "sliding-window-maximum",
+      "title": "Sliding Window Maximum",
+      "pattern": "Queue & Deque",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "first-circular-tour-to-complete-full-journey",
+      "title": "First Circular Tour to Complete Full Journey",
+      "pattern": "Queue & Deque",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "nth-fibonacci-number",
+      "title": "Nth Fibonacci Number",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "climbing-stairs",
+      "title": "Climbing Stairs",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "min-cost-climbing-stairs",
+      "title": "Min Cost Climbing Stairs",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "01-knapsack-problem",
+      "title": "0-1 Knapsack Problem",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "partition-equal-subset-sum",
+      "title": "Partition Equal Subset Sum",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "coin-change-count-ways",
+      "title": "Coin Change (Count Ways)",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "coin-change-minimum-coins",
+      "title": "Coin Change (Minimum Coins)",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "rod-cutting",
+      "title": "Rod Cutting",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "egg-drop-problem",
+      "title": "Egg Drop Problem",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "word-break",
+      "title": "Word Break",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-common-subsequence",
+      "title": "Longest Common Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-increasing-subsequence",
+      "title": "Longest Increasing Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-palindromic-subsequence",
+      "title": "Longest Palindromic Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "edit-distance",
+      "title": "Edit Distance",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "wildcard-pattern-matching",
+      "title": "Wildcard Pattern Matching",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "matrix-chain-multiplication",
+      "title": "Matrix Chain Multiplication",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "palindrome-partitioning-ii",
+      "title": "Palindrome Partitioning II",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "word-wrap-problem",
+      "title": "Word Wrap Problem",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "maximum-profit-in-job-scheduling",
+      "title": "Maximum Profit in Job Scheduling",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "minimum-number-of-jumps",
+      "title": "Minimum Number of Jumps",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "maximum-difference-of-zeros-and-ones-in-binary-string",
+      "title": "Maximum Difference of Zeros and Ones in Binary String",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "minimum-cost-to-fill-given-weight-in-a-bag",
+      "title": "Minimum Cost to Fill Given Weight in a Bag",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "optimal-binary-search-tree",
+      "title": "Optimal Binary Search Tree",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "activity-selection",
+      "title": "Activity Selection",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "job-sequencing-problem",
+      "title": "Job Sequencing Problem",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "huffman-encoding",
+      "title": "Huffman Encoding",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "fractional-knapsack",
+      "title": "Fractional Knapsack",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "minimum-platforms",
+      "title": "Minimum Platforms",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "bfs-of-graph",
+      "title": "BFS of Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "dfs-of-graph",
+      "title": "DFS of Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "transitive-closure-of-a-graph",
+      "title": "Transitive Closure of a Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "detect-cycle-in-undirected-graph",
+      "title": "Detect Cycle in Undirected Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "detect-cycle-in-directed-graph",
+      "title": "Detect Cycle in Directed Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "topological-sorting",
+      "title": "Topological Sorting",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "shortest-path-in-undirected-graph-with-unit-weights",
+      "title": "Shortest Path in Undirected Graph with Unit Weights",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "shortest-path-in-directed-acyclic-graph",
+      "title": "Shortest Path in Directed Acyclic Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "dijkstras-algorithm",
+      "title": "Dijkstra's Algorithm",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "bellmanford-algorithm",
+      "title": "Bellman-Ford Algorithm",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "floyd-warshall-algorithm",
+      "title": "Floyd Warshall Algorithm",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "prims-minimum-spanning-tree",
+      "title": "Prim's Minimum Spanning Tree",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "kruskals-minimum-spanning-tree",
+      "title": "Kruskal's Minimum Spanning Tree",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "bridge-edge-in-graph",
+      "title": "Bridge Edge in Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "strongly-connected-components-kosarajus-algorithm",
+      "title": "Strongly Connected Components (Kosaraju's Algorithm)",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "insert-and-search-in-a-trie",
+      "title": "Insert and Search in a Trie",
+      "pattern": "Tries",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "implement-trie",
+      "title": "Implement Trie",
+      "pattern": "Tries",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "phone-directory",
+      "title": "Phone Directory",
+      "pattern": "Tries",
+      "phase": 2,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "power-of-2",
+      "title": "Power of 2",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "longest-consecutive-1s",
+      "title": "Longest Consecutive 1s",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "count-set-bits",
+      "title": "Count Set Bits",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "missing-number-in-array",
+      "title": "Missing Number in Array",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    },
+    {
+      "slug": "find-two-nonrepeating-numbers",
+      "title": "Find Two Non-Repeating Numbers",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "geeksforgeeks"
+    }
+  ]
+}

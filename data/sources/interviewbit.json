@@ -1,0 +1,1631 @@
+{
+  "$schema": "Extracted from suggest-problem skill. interviewbit ordered study list; consumed by the multi-platform curriculum importer.",
+  "source": "interviewbit",
+  "count": 203,
+  "items": [
+    {
+      "slug": "spiral-order-matrix-i",
+      "title": "Spiral Order Matrix I",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-sum-contiguous-subarray",
+      "title": "Max Sum Contiguous Subarray",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-non-negative-subarray",
+      "title": "Max Non Negative SubArray",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "largest-number",
+      "title": "Largest Number",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "kth-row-of-pascals-triangle",
+      "title": "Kth Row of Pascal's Triangle",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "rotate-matrix",
+      "title": "Rotate Matrix",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "set-matrix-zeros",
+      "title": "Set Matrix Zeros",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "first-missing-integer",
+      "title": "First Missing Integer",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "next-permutation",
+      "title": "Next Permutation",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "merge-intervals",
+      "title": "Merge Intervals",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "merge-overlapping-intervals",
+      "title": "Merge Overlapping Intervals",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-distance",
+      "title": "Max Distance",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "maximum-absolute-difference",
+      "title": "Maximum Absolute Difference",
+      "pattern": "Arrays",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "all-factors",
+      "title": "All Factors",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "prime-sum",
+      "title": "Prime Sum",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "excel-column-number",
+      "title": "Excel Column Number",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "excel-column-title",
+      "title": "Excel Column Title",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "grid-unique-paths",
+      "title": "Grid Unique Paths",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "reverse-integer",
+      "title": "Reverse Integer",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "palindrome-integer",
+      "title": "Palindrome Integer",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "power-of-two-integers",
+      "title": "Power Of Two Integers",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "trailing-zeros-in-factorial",
+      "title": "Trailing Zeros in Factorial",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sorted-permutation-rank",
+      "title": "Sorted Permutation Rank",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "fizzbuzz",
+      "title": "FizzBuzz",
+      "pattern": "Math",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sorted-insert-position",
+      "title": "Sorted Insert Position",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "search-for-a-range",
+      "title": "Search For a Range",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "matrix-median",
+      "title": "Matrix Median",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "matrix-search",
+      "title": "Matrix Search",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "square-root-of-integer",
+      "title": "Square Root of Integer",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "painters-partition-problem",
+      "title": "Painter's Partition Problem",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "allocate-books",
+      "title": "Allocate Books",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "median-of-array",
+      "title": "Median of Array",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "rotated-sorted-array-search",
+      "title": "Rotated Sorted Array Search",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "implement-power-function",
+      "title": "Implement Power Function",
+      "pattern": "Binary Search",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "palindrome-string",
+      "title": "Palindrome String",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-common-prefix",
+      "title": "Longest Common Prefix",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "count-and-say",
+      "title": "Count And Say",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-palindromic-substring",
+      "title": "Longest Palindromic Substring",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "integer-to-roman",
+      "title": "Integer To Roman",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "roman-to-integer",
+      "title": "Roman To Integer",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "atoi",
+      "title": "Atoi",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "zigzag-string",
+      "title": "ZigZag String",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "add-binary-strings",
+      "title": "Add Binary Strings",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "multiply-strings",
+      "title": "Multiply Strings",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "compare-version-numbers",
+      "title": "Compare Version Numbers",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "justified-text",
+      "title": "Justified Text",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "valid-ip-addresses",
+      "title": "Valid IP Addresses",
+      "pattern": "Strings",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "number-of-1-bits",
+      "title": "Number of 1 Bits",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "reverse-bits",
+      "title": "Reverse Bits",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "single-number",
+      "title": "Single Number",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "single-number-ii",
+      "title": "Single Number II",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "divide-integers",
+      "title": "Divide Integers",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "different-bits-sum-pairwise",
+      "title": "Different Bits Sum Pairwise",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-xor-value",
+      "title": "Min XOR value",
+      "pattern": "Bit Manipulation",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "merge-two-sorted-lists-ii",
+      "title": "Merge Two Sorted Lists II",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "remove-duplicates-from-sorted-array",
+      "title": "Remove Duplicates from Sorted Array",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "remove-element-from-array",
+      "title": "Remove Element from Array",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sort-by-color",
+      "title": "Sort by Color",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "3-sum",
+      "title": "3 Sum",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "3-sum-zero",
+      "title": "3 Sum Zero",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "container-with-most-water",
+      "title": "Container With Most Water",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "diffk",
+      "title": "Diffk",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "intersection-of-sorted-arrays",
+      "title": "Intersection Of Sorted Arrays",
+      "pattern": "Two Pointers",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "intersection-of-linked-lists",
+      "title": "Intersection of Linked Lists",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "reverse-linked-list",
+      "title": "Reverse Linked List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "palindrome-list",
+      "title": "Palindrome List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "remove-duplicates-from-sorted-list",
+      "title": "Remove Duplicates from Sorted List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "title": "Remove Duplicates from Sorted List II",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "merge-two-sorted-lists",
+      "title": "Merge Two Sorted Lists",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "remove-nth-node-from-list-end",
+      "title": "Remove Nth Node from List End",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "rotate-list",
+      "title": "Rotate List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "reverse-link-list-ii",
+      "title": "Reverse Link List II",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "reorder-list",
+      "title": "Reorder List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "add-two-numbers-as-lists",
+      "title": "Add Two Numbers as Lists",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "list-cycle",
+      "title": "List Cycle",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "partition-list",
+      "title": "Partition List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "swap-list-nodes-in-pairs",
+      "title": "Swap List Nodes in Pairs",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "k-reverse-linked-list",
+      "title": "K Reverse Linked List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sort-list",
+      "title": "Sort List",
+      "pattern": "Linked Lists",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "generate-all-parentheses",
+      "title": "Generate all Parentheses",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "reverse-string",
+      "title": "Reverse String",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "nearest-smaller-element",
+      "title": "Nearest Smaller Element",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "largest-rectangle-in-histogram",
+      "title": "Largest Rectangle in Histogram",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sliding-window-maximum",
+      "title": "Sliding Window Maximum",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-stack",
+      "title": "Min Stack",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "evaluate-expression",
+      "title": "Evaluate Expression",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "rain-water-trapped",
+      "title": "Rain Water Trapped",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "redundant-braces",
+      "title": "Redundant Braces",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "simplify-directory-path",
+      "title": "Simplify Directory Path",
+      "pattern": "Stacks and Queues",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "combinations",
+      "title": "Combinations",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "combination-sum",
+      "title": "Combination Sum",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "combination-sum-ii",
+      "title": "Combination Sum II",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "letter-phone",
+      "title": "Letter Phone",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "subset",
+      "title": "Subset",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "subsets-ii",
+      "title": "Subsets II",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "palindrome-partitioning",
+      "title": "Palindrome Partitioning",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "generate-all-parentheses-ii",
+      "title": "Generate all Parentheses II",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "permutations",
+      "title": "Permutations",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "gray-code",
+      "title": "Gray Code",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "nqueens",
+      "title": "NQueens",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sudoku",
+      "title": "Sudoku",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "kth-permutation-sequence",
+      "title": "Kth Permutation Sequence",
+      "pattern": "Backtracking",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "colorful-number",
+      "title": "Colorful Number",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "2-sum",
+      "title": "2 Sum",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "4-sum",
+      "title": "4 Sum",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "valid-sudoku",
+      "title": "Valid Sudoku",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "diffk-ii",
+      "title": "Diffk II",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "anagrams",
+      "title": "Anagrams",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "equal",
+      "title": "Equal",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "copy-list",
+      "title": "Copy List",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-substring-without-repeat",
+      "title": "Longest Substring Without Repeat",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "substring-concatenation",
+      "title": "Substring Concatenation",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "fraction",
+      "title": "Fraction",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "points-on-the-straight-line",
+      "title": "Points on the Straight Line",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "largest-continuous-sequence-zero-sum",
+      "title": "Largest Continuous Sequence Zero Sum",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "window-string",
+      "title": "Window String",
+      "pattern": "Hashing",
+      "phase": 1,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "n-max-pair-combinations",
+      "title": "N max pair combinations",
+      "pattern": "Heaps and Maps",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "magician-and-chocolates",
+      "title": "Magician and Chocolates",
+      "pattern": "Heaps and Maps",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "merge-k-sorted-lists",
+      "title": "Merge K Sorted Lists",
+      "pattern": "Heaps and Maps",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "distinct-numbers-in-window",
+      "title": "Distinct Numbers in Window",
+      "pattern": "Heaps and Maps",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "lru-cache",
+      "title": "LRU Cache",
+      "pattern": "Heaps and Maps",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "ways-to-form-max-heap",
+      "title": "Ways to form Max Heap",
+      "pattern": "Heaps and Maps",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "vertical-order-traversal-of-binary-tree",
+      "title": "Vertical Order traversal of Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "inorder-traversal",
+      "title": "Inorder Traversal",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "preorder-traversal",
+      "title": "Preorder Traversal",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "postorder-traversal",
+      "title": "Postorder Traversal",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-depth-of-binary-tree",
+      "title": "Max Depth of Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-depth-of-binary-tree",
+      "title": "Min Depth of Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "balanced-binary-tree",
+      "title": "Balanced Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "identical-binary-trees",
+      "title": "Identical Binary Trees",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "symmetric-binary-tree",
+      "title": "Symmetric Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "invert-the-binary-tree",
+      "title": "Invert the Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "zigzag-level-order-traversal-bt",
+      "title": "ZigZag Level Order Traversal BT",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "populate-next-right-pointers-tree",
+      "title": "Populate Next Right Pointers Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sorted-array-to-balanced-bst",
+      "title": "Sorted Array To Balanced BST",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "least-common-ancestor",
+      "title": "Least Common Ancestor",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "valid-binary-search-tree",
+      "title": "Valid Binary Search Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "kth-smallest-element-in-tree",
+      "title": "Kth Smallest Element in Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "bst-iterator",
+      "title": "BST Iterator",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "recover-binary-search-tree",
+      "title": "Recover Binary Search Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "path-sum",
+      "title": "Path Sum",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "root-to-leaf-paths-with-sum",
+      "title": "Root to Leaf Paths With Sum",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sum-root-to-leaf-numbers",
+      "title": "Sum Root to Leaf Numbers",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "flatten-binary-tree-to-linked-list",
+      "title": "Flatten Binary Tree to Linked List",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "construct-binary-tree-from-inorder-and-preorder",
+      "title": "Construct Binary Tree From Inorder And Preorder",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "2sum-binary-tree",
+      "title": "2-Sum Binary Tree",
+      "pattern": "Trees",
+      "phase": 2,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-common-subsequence",
+      "title": "Longest Common Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-palindromic-subsequence",
+      "title": "Longest Palindromic Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "edit-distance",
+      "title": "Edit Distance",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "repeating-subsequence",
+      "title": "Repeating Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "distinct-subsequences",
+      "title": "Distinct Subsequences",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "scramble-string",
+      "title": "Scramble String",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "regular-expression-match",
+      "title": "Regular Expression Match",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "word-break",
+      "title": "Word Break",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "word-break-ii",
+      "title": "Word Break II",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-valid-parenthesis",
+      "title": "Longest Valid Parenthesis",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "palindrome-partitioning-ii",
+      "title": "Palindrome Partitioning II",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "coin-sum-infinite",
+      "title": "Coin Sum Infinite",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-product-subarray",
+      "title": "Max Product Subarray",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "longest-increasing-subsequence",
+      "title": "Longest Increasing Subsequence",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "jump-game-array",
+      "title": "Jump Game Array",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-jumps-array",
+      "title": "Min Jumps Array",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-sum-path-in-matrix",
+      "title": "Min Sum Path in Matrix",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-sum-path-in-triangle",
+      "title": "Min Sum Path in Triangle",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "dungeon-princess",
+      "title": "Dungeon Princess",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "unique-paths-in-a-grid",
+      "title": "Unique Paths in a Grid",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stocks-i",
+      "title": "Best Time to Buy and Sell Stocks I",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stocks-ii",
+      "title": "Best Time to Buy and Sell Stocks II",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stocks-iii",
+      "title": "Best Time to Buy and Sell Stocks III",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "rod-cutting",
+      "title": "Rod Cutting",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-sum-without-adjacent-elements",
+      "title": "Max Sum Without Adjacent Elements",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "01-knapsack",
+      "title": "0-1 Knapsack",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "equal-average-partition",
+      "title": "Equal Average Partition",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "max-rectangle-in-binary-matrix",
+      "title": "Max Rectangle in Binary Matrix",
+      "pattern": "Dynamic Programming",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "highest-product",
+      "title": "Highest Product",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "bulbs",
+      "title": "Bulbs",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "distribute-candy",
+      "title": "Distribute Candy",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "gas-station",
+      "title": "Gas Station",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "majority-element",
+      "title": "Majority Element",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "assign-mice-to-holes",
+      "title": "Assign Mice to Holes",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "seats",
+      "title": "Seats",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "disjoint-intervals",
+      "title": "Disjoint Intervals",
+      "pattern": "Greedy",
+      "phase": 4,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "valid-path",
+      "title": "Valid Path",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "region-in-binary-matrix",
+      "title": "Region in Binary Matrix",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "level-order",
+      "title": "Level Order",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "smallest-multiple-with-0-and-1",
+      "title": "Smallest Multiple With 0 and 1",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "snake-ladder-problem",
+      "title": "Snake Ladder Problem",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "min-cost-path",
+      "title": "Min Cost Path",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "capture-regions-on-board",
+      "title": "Capture Regions on Board",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "word-search-board",
+      "title": "Word Search Board",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "word-ladder-i",
+      "title": "Word Ladder I",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "word-ladder-ii",
+      "title": "Word Ladder II",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "black-shapes",
+      "title": "Black Shapes",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "clone-graph",
+      "title": "Clone Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "stepping-numbers",
+      "title": "Stepping Numbers",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "commutable-islands",
+      "title": "Commutable Islands",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "possibility-of-finishing-all-courses",
+      "title": "Possibility of Finishing All Courses",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "cycle-in-directed-graph",
+      "title": "Cycle in Directed Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "cycle-in-undirected-graph",
+      "title": "Cycle in Undirected Graph",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "largest-distance-between-nodes-of-a-tree",
+      "title": "Largest Distance between Nodes of a Tree",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "sum-of-fibonacci-numbers",
+      "title": "Sum of Fibonacci Numbers",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "knight-on-chess-board",
+      "title": "Knight On Chess Board",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    },
+    {
+      "slug": "smallest-sequence-with-given-primes",
+      "title": "Smallest Sequence With Given Primes",
+      "pattern": "Graphs",
+      "phase": 3,
+      "kind": "problem",
+      "source": "interviewbit"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "Per-problem metadata. Keys are repo-relative file paths. Edit difficulty/category/patterns/companies as needed.",
+  "corePatterns": ["Two Pointers", "Sliding Window", "Hash Table", "Sorting", "Binary Search", "Recursion", "Dynamic Programming", "Backtracking", "Greedy", "Stack", "Queue", "Linked List", "Tree DFS/BFS", "Graph DFS/BFS", "Heap", "Trie", "Bit Manipulation", "Math", "Prefix Sum", "Divide and Conquer", "Counting", "Simulation", "String Matching", "Matrix"],
+  "problems": {
+    "leetcode/1_two_sum.example.ts": {
+      "title": "Two Sum (example)",
+      "difficulty": "Easy",
+      "category": "Array",
+      "patterns": ["Array", "Hash Map"],
+      "companies": ["Amazon", "Google"]
+    },
+    "systemdesign/url-shortener.example.md": {
+      "title": "Design a URL shortener (example)",
+      "difficulty": "Medium",
+      "category": "System Design",
+      "patterns": ["System Design"],
+      "companies": []
+    },
+    "behavioral/stories/ownership-bug.example.md": {
+      "title": "Owned a production bug end to end (example)",
+      "difficulty": "N/A",
+      "category": "Behavioral",
+      "patterns": ["Behavioral"],
+      "companies": []
+    }
+  }
+}
