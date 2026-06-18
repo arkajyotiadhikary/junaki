@@ -349,7 +349,7 @@ function renderReviews(due: DueReview[], meta: MetaFile): void {
   for (const d of shown) {
     const title = titleFor(d.file, meta);
     console.log('    ' + green('•') + ' ' + pad(title, titleWidth) + '  ' + dim(d.file));
-    console.log('      ' + dim(`→ npm run practice -- ${d.file} --rating <r>`));
+    console.log('      ' + dim(`→ npm run practice -- ${d.file} --rating=<fail|hard|good|easy>`));
   }
   if (due.length > REVIEW_CAP) {
     console.log('    ' + yellow(`+${due.length - REVIEW_CAP} more due`) + dim(` — clear these ${REVIEW_CAP} first.`));

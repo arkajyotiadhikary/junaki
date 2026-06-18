@@ -17,7 +17,7 @@
     "schedule:backfill": "tsx scripts/schedule.ts",
     "extract:lists": "tsx scripts/extract-lists.ts",
     "import:algofrog": "tsx scripts/import-algofrog.ts",
-    "test": "tsx scripts/schedule.test.ts && tsx scripts/today.test.ts && tsx scripts/mock.test.ts && tsx scripts/extract-lists.test.ts && tsx scripts/import-algofrog.test.ts && tsx scripts/assemble-curriculum.test.ts",
+    "test": "tsx scripts/schedule.test.ts && tsx scripts/today.test.ts && tsx scripts/mock.test.ts && tsx scripts/extract-lists.test.ts && tsx scripts/import-algofrog.test.ts && tsx scripts/assemble-curriculum.test.ts && tsx scripts/log-practice.test.ts",
     "setup": "git config core.hooksPath hooks && chmod +x hooks/pre-commit && echo 'Hooks installed.'"
   },
   "devDependencies": {
