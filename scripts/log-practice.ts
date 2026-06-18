@@ -50,30 +50,67 @@ export function mockAliasUpdates(
   return updates;
 }
 
+export interface ParsedArgs {
+  file: string;
+  notes?: string;
+  rating: Rating;
+}
+
+/**
+ * Parse the CLI args for `npm run practice`. Strict by design: the first arg is
+ * the file, and every later arg MUST be an exact `--flag=value` (`--notes=...`
+ * or `--rating=...`). A bare word, the space form (`--rating good`), or an
+ * unknown/misspelled flag throws instead of being silently ignored — so a
+ * mistyped rating can never quietly fall back to the default. Pure: no file
+ * I/O; returns the parsed shape or throws an Error the caller turns into usage.
+ */
+export function parseArgs(args: string[]): ParsedArgs {
+  if (args.length === 0) {
+    throw new Error('No file given.');
+  }
+  const file = args[0];
+  if (file.startsWith('--')) {
+    throw new Error(`Expected a file as the first argument, got a flag: ${file}`);
+  }
+
+  let notes: string | undefined;
+  let rating: Rating = 'good';
+  for (const arg of args.slice(1)) {
+    if (arg.startsWith('--notes=')) {
+      notes = arg.slice('--notes='.length).replace(/^"|"$/g, '');
+    } else if (arg.startsWith('--rating=')) {
+      const value = arg.slice('--rating='.length);
+      if (!(RATINGS as readonly string[]).includes(value)) {
+        throw new Error(`Invalid --rating: ${value}. Expected one of: ${RATINGS.join(', ')}.`);
+      }
+      rating = value as Rating;
+    } else {
+      throw new Error(
+        `Unrecognised argument: ${arg}. Flags must be in --flag=value form (e.g. --rating=good).`,
+      );
+    }
+  }
+
+  return { file, ...(notes ? { notes } : {}), rating };
+}
+
 function usage(): never {
-  console.error('Usage: npm run practice -- <file> [--notes="..."] [--rating=fail|hard|good|easy]');
+  console.error('Usage: npm run practice -- <file> [--notes="..."] [--rating=<fail|hard|good|easy>]');
   console.error('Example: npm run practice -- leetcode/88_merge_sorted_array.ts --notes="2nd solve, 8min" --rating=easy');
   process.exit(1);
 }
 
 function main(): void {
   const args = process.argv.slice(2);
-  if (args.length === 0) usage();
 
-  const file = args[0];
-  const notesArg = args.find((a) => a.startsWith('--notes='));
-  const notes = notesArg ? notesArg.slice('--notes='.length).replace(/^"|"$/g, '') : undefined;
-
-  const ratingArg = args.find((a) => a.startsWith('--rating='));
-  let rating: Rating = 'good';
-  if (ratingArg) {
-    const value = ratingArg.slice('--rating='.length);
-    if (!(RATINGS as readonly string[]).includes(value)) {
-      console.error(`Invalid --rating: ${value}. Expected one of: ${RATINGS.join(', ')}.`);
-      usage();
-    }
-    rating = value as Rating;
+  let parsed: ParsedArgs;
+  try {
+    parsed = parseArgs(args);
+  } catch (e) {
+    console.error(e instanceof Error ? e.message : String(e));
+    usage();
   }
+  const { file, notes, rating } = parsed;
 
   if (!existsSync(join(ROOT, file))) {
     console.error(`File not found: ${file}`);

@@ -53,7 +53,7 @@ It prints, in order:
 Then you solve, and **log what you did** with a self-rating:
 
 ```bash
-npm run practice -- leetcode/88_merge_sorted_array.ts --rating good
+npm run practice -- leetcode/88_merge_sorted_array.ts --rating=good
 ```
 
 The rating drives when you'll see that problem again:
@@ -76,7 +76,7 @@ The interval ladder is `3 → 7 → 14 → 30 → 60` days. `today` tells you wh
 | `npm run seed` | Load the demo data so a fresh clone shows the tool working. |
 | `npm run reset` | Clear all `*.example.*` starter files and empty the data files for a clean start. |
 | `npm run today` | **Start here daily.** Prints today's plan. |
-| `npm run practice -- <file> --rating <fail\|hard\|good\|easy>` | Log a solved problem and update its review schedule. |
+| `npm run practice -- <file> --rating=<fail\|hard\|good\|easy>` | Log a solved problem and update its review schedule. |
 | `npm run stats` | Rebuild `stats.svg` (also runs automatically on commit if hooks are set up). |
 | `npm run schedule:backfill` | Rebuild `schedule.json` from your whole practice history. |
 | `npm run design -- <slug> "<Title>"` | Scaffold a new system-design exercise in `systemdesign/`. |
