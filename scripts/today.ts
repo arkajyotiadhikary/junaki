@@ -396,6 +396,7 @@ function renderNewProblems(curriculum: Curriculum | null, weekend: boolean, prac
     return;
   }
   for (const it of picks) renderItem(it);
+  console.log('      ' + dim('→ npm run new') + dim('   scaffold the file (correct folder + slug)'));
 }
 
 function renderDesign(curriculum: Curriculum | null, phase: CurriculumPhase | undefined, practiced: PracticedFile[]): void {
