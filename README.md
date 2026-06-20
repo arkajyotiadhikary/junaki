@@ -50,6 +50,16 @@ It prints, in order:
 3. **System design** — on weekends, the next design reading or exercise for this phase.
 4. **Footer** — current phase, week number, total progress, and your on-time review rate.
 
+Starting a brand-new problem? Let the tool create the file so the name is always right:
+
+```bash
+npm run new                                            # scaffold today's pick (curriculum's exact slug)
+npm run new -- leetcode 704 "Binary Search"            # off-curriculum, with a problem number
+npm run new -- geeksforgeeks kadanes-algorithm "Kadane's Algorithm"   # other platforms
+```
+
+(A wrong filename is invisible to `today` and the schedule — `npm run new` avoids that.)
+
 Then you solve, and **log what you did** with a self-rating:
 
 ```bash
@@ -79,6 +89,8 @@ The interval ladder is `3 → 7 → 14 → 30 → 60` days. `today` tells you wh
 | `npm run practice -- <file> --rating=<fail\|hard\|good\|easy>` | Log a solved problem and update its review schedule. |
 | `npm run stats` | Rebuild `stats.svg` (also runs automatically on commit if hooks are set up). |
 | `npm run schedule:backfill` | Rebuild `schedule.json` from your whole practice history. |
+| `npm run new` | Scaffold today's curriculum pick as a solution file, with the correct folder and slug (weekends show a chooser). |
+| `npm run new -- <platform> <slug-or-num> "<Title>"` | Scaffold an off-curriculum problem, e.g. `npm run new -- leetcode 704 "Binary Search"`. |
 | `npm run design -- <slug> "<Title>"` | Scaffold a new system-design exercise in `systemdesign/`. |
 | `npm run story -- <slug> "<Title>"` | Scaffold a new behavioral STAR story in `behavioral/stories/`. |
 | `npm run story:matrix` | Rebuild the behavioral coverage matrix and flag thin areas. |
